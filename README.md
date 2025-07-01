@@ -28,6 +28,10 @@ Este es un proyecto de agenda web desarrollado con Spring Boot, que incluye func
 - Red NAT y reenvío de puertos configurado manualmente.
 
 ---
+## Video explicativo del despliegue
+Haz clic para ver el video del proceso de despliegue completo:
+https://www.youtube.com/watch?v=4erH7XISYXY&t=4s&ab_channel=jeanF_learn 
+
 
 ## Estructura de despliegue
 
